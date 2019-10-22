@@ -190,6 +190,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    /*
     private void printKeyHash() {
         try{
             PackageInfo info=getPackageManager().getPackageInfo("com.example.sharecontenttofacebook",
@@ -208,4 +209,5 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
         }
     }
+     */
 }
